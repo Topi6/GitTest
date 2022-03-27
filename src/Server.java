@@ -12,6 +12,7 @@ public class Server {
 
         String str = bf.readLine();
         System.out.println("client said: " + str);
-        System.out.println("For GIT!");
+        System.out.println("Branched!!!");
+
     }
 }
